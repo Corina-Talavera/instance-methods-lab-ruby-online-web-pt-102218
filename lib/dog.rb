@@ -9,5 +9,5 @@ end
 
 fido = Dog.new 
 fido #=> #<Dog:0x007fc52c2d7d20>
-fido.bark
-fido.sit 
+fido.bark #> "Woof!"
+fido.sit  #> "The Dog is sitting"
